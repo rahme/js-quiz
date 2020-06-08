@@ -1,0 +1,48 @@
+body{
+    background-color: #FFFAFA;
+}
+
+.mycon1{
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    background-color: #E2E2E2;
+}
+.mycon2{
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    background-color: #E2E2E2;
+}
+
+.btn{
+    margin-bottom: 10px;
+}
+
+#title{
+    margin-top: 10px;
+}
+
+#body{
+    margin-top: 10px;
+}
+
+#highscores{
+    margin-top: 10px;
+}
+#time{
+    margin-top: 10px;
+}
+
+
+.myrow1{
+    /* border: 1px solid red; */
+}
+.myrow2{
+    /* border: 1px solid red; */
+}
+
+.mycol1{
+    /* border: 1px solid blue; */
+}
+.mycol2{
+    /* border: 1px solid blue; */
+}
